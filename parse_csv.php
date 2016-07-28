@@ -1,3 +1,5 @@
+<?php
+
 function parse_csv($string, $field_delimiter = ',', $field_encapsulator = '"', $escaped_field_encapsulator = '""', $row_delimiter = "\n") {
 
 	// establish key data

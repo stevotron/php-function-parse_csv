@@ -61,7 +61,7 @@ $array = parse_csv($string);
 //    ]
 ```
 
-### Define custom field separaters, encapsulators etc...
+### Define custom field delimiters, encapsulators etc...
 
 ```php
 $string = <<<KAKJNBWDCV
